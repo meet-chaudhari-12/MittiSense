@@ -118,6 +118,8 @@ pipeline = run_mittisense_pipeline(
 )
 # The full, validated advisory is available in pipeline["final_advisory"]
 ```
+---
+
 ## 🌱 Why This Project Matters
 
 1. Millions of people in agriculture face challenges such as:
@@ -149,6 +151,8 @@ MittiSense helps by offering:
 6. Organic nutrient plans
 
 This project demonstrates how multi-agent AI systems can create real, positive impact in agriculture.
+
+---
 
 ## 👨‍💻 Author
 
