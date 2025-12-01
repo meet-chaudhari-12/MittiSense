@@ -156,7 +156,7 @@ This project demonstrates how multi-agent AI systems can create real, positive i
 
 ## 👨‍💻 Author
 
-* Meet Chaudhari
+* **Meet Chaudhari**
 * **Creator & Developer of MittiSense**
 * **Google AI Intensive — Capstone Project**
 * **Kaggle Public Notebook • GitHub Repository**
