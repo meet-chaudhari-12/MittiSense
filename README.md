@@ -57,9 +57,9 @@ api_key = os.environ["GEMINI_API_KEY"]**
 
 ✔️ Output Files
 
-* **mittisense_report.json**
+* `mittisense_report.json`
 
-* **mittisense_report.txt**
+* `mittisense_report.txt`
 
 These appear in Output → Files.
 
