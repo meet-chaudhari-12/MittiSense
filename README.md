@@ -21,6 +21,49 @@ Built using **Google Gemini 2.5 Flash**, the system produces a fully validated a
 
 ---
 
+## 🔧 Installation & Setup (Kaggle Notebook)
+
+MittiSense is fully optimized for Kaggle Notebooks, allowing smooth and fast execution.
+
+### ✔️ Enable Internet
+
+* Go to Settings
+
+* Turn Internet: ON
+
+### ✔️ Add Gemini API Key (Kaggle Secrets)
+
+* Open Settings → Secrets
+
+* Add a new secret:
+
+* Key: GEMINI_API_KEY
+
+* Value: your actual Gemini API key
+
+* Use it in your notebook:
+
+**import os
+api_key = os.environ["GEMINI_API_KEY"]**
+
+### ✔️ Install Dependencies
+**pip install -q google-generativeai**
+
+### ✔️ Run the Notebook
+
+* Upload MittiSense.ipynb
+
+* Run all cells
+
+✔️ Output Files
+
+* **mittisense_report.json**
+
+* **mittisense_report.txt**
+
+These appear in Output → Files.
+
+---
 ## 🌟 Key Features
 
 ### 1️⃣ Multi-Agent Architecture
